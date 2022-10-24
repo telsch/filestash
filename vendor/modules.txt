@@ -67,8 +67,6 @@ github.com/cretz/bine/tor
 github.com/cretz/bine/torutil
 github.com/cretz/bine/torutil/ed25519
 github.com/cretz/bine/torutil/ed25519/internal/edwards25519
-# github.com/davecgh/go-spew v1.1.1
-github.com/davecgh/go-spew/spew
 # github.com/emirpasic/gods v1.12.0
 github.com/emirpasic/gods/containers
 github.com/emirpasic/gods/lists
@@ -97,7 +95,7 @@ github.com/gorilla/mux
 # github.com/gorilla/websocket v1.4.1
 ## explicit
 github.com/gorilla/websocket
-# github.com/h2non/bimg v1.1.5
+# github.com/h2non/bimg v1.1.9
 ## explicit
 github.com/h2non/bimg
 # github.com/hashicorp/golang-lru v0.5.1
@@ -150,8 +148,6 @@ github.com/pkg/errors
 # github.com/pkg/sftp v1.11.0
 ## explicit
 github.com/pkg/sftp
-# github.com/pmezard/go-difflib v1.0.0
-github.com/pmezard/go-difflib/difflib
 # github.com/prasad83/goftp v0.0.0-20210325080443-f57aaed46a32
 ## explicit
 github.com/prasad83/goftp
@@ -175,7 +171,6 @@ github.com/src-d/gcfg/token
 github.com/src-d/gcfg/types
 # github.com/stretchr/testify v1.7.0
 ## explicit
-github.com/stretchr/testify/assert
 # github.com/tidwall/gjson v1.13.0
 ## explicit
 github.com/tidwall/gjson
@@ -413,7 +408,6 @@ gopkg.in/src-d/go-git.v4/utils/merkletrie/noder
 gopkg.in/warnings.v0
 # gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 ## explicit
-gopkg.in/yaml.v3
 # lukechampine.com/uint128 v1.1.1
 lukechampine.com/uint128
 # modernc.org/cc/v3 v3.38.1
