@@ -11,7 +11,7 @@ require (
 	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/gorilla/mux v1.7.3
 	github.com/gorilla/websocket v1.4.1
-	github.com/h2non/bimg v1.1.5
+	github.com/h2non/bimg v1.1.9
 	github.com/hirochachacha/go-smb2 v1.0.2
 	github.com/kr/pretty v0.3.0 // indirect
 	github.com/mattn/go-sqlite3 v2.0.2+incompatible
@@ -24,7 +24,7 @@ require (
 	github.com/qeesung/image2ascii v1.0.1
 	github.com/rogpeppe/go-internal v1.8.0 // indirect
 	github.com/secsy/goftp v0.0.0-20200609142545-aa2de14babf4 // indirect
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.0 // indirect
 	github.com/tidwall/gjson v1.13.0
 	github.com/tidwall/sjson v1.0.4
 	github.com/wayneashleyberry/terminal-dimensions v1.1.0 // indirect
