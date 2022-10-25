@@ -20,7 +20,7 @@ steps:
   - cp config/config.json ./filestash/data/state/config/
 
 - name: build_frontend
-  image: node:13-alpine
+  image: node:14-alpine3.15
   depends_on: [ build_prepare ]
   commands:
   - apk add make git > /dev/null
@@ -29,7 +29,7 @@ steps:
   - cp -R ./dist/data/public ./filestash/data/public
 
 - name: build_backend
-  image: golang:1.16-stretch
+  image: golang:1.18-bullseye
   depends_on: [ build_prepare ]
   environment:
     CGO_LDFLAGS_ALLOW: "-fopenmp"
@@ -54,7 +54,7 @@ steps:
   - chmod -R 777 ./test/
 
 - name: test_frontend
-  image: node:8-alpine
+  image: node:14-alpine3.15
   depends_on: [ test_prepare, build_frontend ]
   commands:
   - cd ./test/unit_js
@@ -62,7 +62,7 @@ steps:
   - npm test
 
 - name: test_backend_unit
-  image: golang:1.16-alpine
+  image: golang:1.18-bullseye
   depends_on: [ test_prepare, build_backend, build_frontend ]
   environment:
     GO111MODULE: "on"
