@@ -10,7 +10,7 @@ require (
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/gorilla/mux v1.7.3
-	github.com/gorilla/websocket v1.4.1
+	github.com/gorilla/websocket v1.5.0
 	github.com/h2non/bimg v1.1.9
 	github.com/hirochachacha/go-smb2 v1.1.0
 	github.com/kr/pretty v0.3.0 // indirect
