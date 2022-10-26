@@ -136,7 +136,7 @@ github.com/mickael-kerjean/net/webdav
 github.com/mickael-kerjean/net/webdav/internal/xml
 # github.com/mitchellh/go-homedir v1.1.0
 github.com/mitchellh/go-homedir
-# github.com/mitchellh/hashstructure v1.0.0
+# github.com/mitchellh/hashstructure v1.1.0
 ## explicit
 github.com/mitchellh/hashstructure
 # github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
