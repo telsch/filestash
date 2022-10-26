@@ -175,7 +175,7 @@ github.com/src-d/gcfg
 github.com/src-d/gcfg/scanner
 github.com/src-d/gcfg/token
 github.com/src-d/gcfg/types
-# github.com/tidwall/gjson v1.14.2
+# github.com/tidwall/gjson v1.14.3
 ## explicit
 github.com/tidwall/gjson
 # github.com/tidwall/match v1.1.1
