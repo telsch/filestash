@@ -175,14 +175,14 @@ github.com/src-d/gcfg
 github.com/src-d/gcfg/scanner
 github.com/src-d/gcfg/token
 github.com/src-d/gcfg/types
-# github.com/tidwall/gjson v1.13.0
+# github.com/tidwall/gjson v1.14.2
 ## explicit
 github.com/tidwall/gjson
 # github.com/tidwall/match v1.1.1
 github.com/tidwall/match
 # github.com/tidwall/pretty v1.2.0
 github.com/tidwall/pretty
-# github.com/tidwall/sjson v1.0.4
+# github.com/tidwall/sjson v1.2.5
 ## explicit
 github.com/tidwall/sjson
 # github.com/wayneashleyberry/terminal-dimensions v1.1.0
