@@ -6,7 +6,7 @@ require (
 	github.com/aws/aws-sdk-go v1.40.41
 	github.com/aybabtme/rgbterm v0.0.0-20170906152045-cc83f3b3ce59 // indirect
 	github.com/creack/pty v1.1.18
-	github.com/cretz/bine v0.1.0
+	github.com/cretz/bine v0.2.0
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/gorilla/mux v1.7.3
@@ -24,7 +24,6 @@ require (
 	github.com/qeesung/image2ascii v1.0.1
 	github.com/rogpeppe/go-internal v1.8.0 // indirect
 	github.com/secsy/goftp v0.0.0-20200609142545-aa2de14babf4 // indirect
-	github.com/stretchr/testify v1.7.0 // indirect
 	github.com/tidwall/gjson v1.13.0
 	github.com/tidwall/sjson v1.0.4
 	github.com/wayneashleyberry/terminal-dimensions v1.1.0 // indirect
