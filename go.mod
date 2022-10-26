@@ -18,7 +18,7 @@ require (
 	github.com/mitchellh/hashstructure v1.1.0
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 // indirect
 	github.com/patrickmn/go-cache v2.1.0+incompatible
-	github.com/pkg/sftp v1.11.0
+	github.com/pkg/sftp v1.13.5
 	github.com/prasad83/goftp v0.0.0-20210325080443-f57aaed46a32
 	github.com/qeesung/image2ascii v1.0.1
 	github.com/rogpeppe/go-internal v1.8.0 // indirect
@@ -26,7 +26,7 @@ require (
 	github.com/tidwall/gjson v1.13.0
 	github.com/tidwall/sjson v1.0.4
 	github.com/wayneashleyberry/terminal-dimensions v1.1.0 // indirect
-	golang.org/x/crypto v0.0.0-20211117183948-ae814b36b871
+	golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3
 	golang.org/x/image v0.0.0-20210622092929-e6eecd499c2c
 	golang.org/x/net v0.0.0-20220909164309-bea034e7d591
 	golang.org/x/oauth2 v0.0.0-20220909003341-f21342109be1
