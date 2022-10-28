@@ -50,7 +50,7 @@
     "babelify": "^8.0.0",
     "compression-webpack-plugin": "^1.1.11",
     "copy-webpack-plugin": "^4.5.2",
-    "css-loader": "^0.28.10",
+    "css-loader": "^6.7.1",
     "eslint": "^8.5.0",
     "eslint-config-google": "^0.14.0",
     "eslint-plugin-react": "^7.27.1",
