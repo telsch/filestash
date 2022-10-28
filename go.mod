@@ -3,7 +3,7 @@ module github.com/mickael-kerjean/filestash
 go 1.16
 
 require (
-	github.com/aws/aws-sdk-go v1.44.125
+	github.com/aws/aws-sdk-go v1.44.126
 	github.com/aybabtme/rgbterm v0.0.0-20170906152045-cc83f3b3ce59 // indirect
 	github.com/creack/pty v1.1.18
 	github.com/cretz/bine v0.2.0
