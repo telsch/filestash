@@ -27,7 +27,7 @@
     "react-draggable": "^2.2.6",
     "react-infinite-scroller": "^1.1.4",
     "react-pdf": "5.7.2", "pdfjs-dist": "2.6.347",
-    "react-router": "^5.2.0",
+    "react-router": "^6.4.2",
     "react-router-dom": "^5.2.0",
     "react-selectable": "git+https://github.com/mickael-kerjean/react-selectable.git",
     "react-sticky": "^6.0.2",
