@@ -35,7 +35,7 @@
     "video.js": "^7.14.3",
     "videojs-contrib-hls": "^5.14.1",
     "videojs-sublime-skin": "^1.0.3",
-    "wavesurfer.js": "^1.4.0"
+    "wavesurfer.js": "^6.3.0"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.16.5",
