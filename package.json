@@ -64,6 +64,6 @@
     "url-loader": "^0.6.2",
     "webpack": "^2.7.0",
     "webpack-bundle-analyzer": "^4.7.0",
-    "worker-loader": "^2.0.0"
+    "worker-loader": "^3.0.8"
   }
 }
