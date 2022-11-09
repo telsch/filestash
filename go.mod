@@ -3,7 +3,7 @@ module github.com/mickael-kerjean/filestash
 go 1.16
 
 require (
-	github.com/aws/aws-sdk-go v1.44.125
+	github.com/aws/aws-sdk-go v1.44.134
 	github.com/aybabtme/rgbterm v0.0.0-20170906152045-cc83f3b3ce59 // indirect
 	github.com/creack/pty v1.1.18
 	github.com/cretz/bine v0.2.0
@@ -28,7 +28,7 @@ require (
 	github.com/wayneashleyberry/terminal-dimensions v1.1.0 // indirect
 	golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3
 	golang.org/x/image v0.0.0-20210622092929-e6eecd499c2c
-	golang.org/x/net v0.0.0-20220909164309-bea034e7d591
+	golang.org/x/net v0.1.0
 	golang.org/x/oauth2 v0.0.0-20220909003341-f21342109be1
 	golang.org/x/sync v0.1.0
 	golang.org/x/time v0.0.0-20220722155302-e5dcc9cfc0b9
