@@ -28,16 +28,15 @@ require (
 	github.com/wayneashleyberry/terminal-dimensions v1.1.0 // indirect
 	golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3
 	golang.org/x/image v0.0.0-20210622092929-e6eecd499c2c
-	golang.org/x/net v0.0.0-20220909164309-bea034e7d591
-	golang.org/x/oauth2 v0.0.0-20220909003341-f21342109be1
+	golang.org/x/net v0.0.0-20221014081412-f15817d10f9b
+	golang.org/x/oauth2 v0.0.0-20221014153046-6fdb5e3db783
 	golang.org/x/sync v0.1.0
 	golang.org/x/time v0.0.0-20220722155302-e5dcc9cfc0b9
-	google.golang.org/api v0.101.0
+	google.golang.org/api v0.103.0
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
 	gopkg.in/ldap.v3 v3.1.0
 	gopkg.in/src-d/go-git.v4 v4.13.1
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 	modernc.org/sqlite v1.19.1
 )
